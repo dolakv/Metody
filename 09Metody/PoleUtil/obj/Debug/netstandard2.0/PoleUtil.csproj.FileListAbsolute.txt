@@ -1,0 +1,4 @@
+C:\Users\dolakv.05\source\repos\09Metody\PoleUtil\obj\Debug\netstandard2.0\PoleUtil.csprojAssemblyReference.cache
+C:\Users\dolakv.05\source\repos\09Metody\PoleUtil\obj\Debug\netstandard2.0\PoleUtil.AssemblyInfoInputs.cache
+C:\Users\dolakv.05\source\repos\09Metody\PoleUtil\obj\Debug\netstandard2.0\PoleUtil.AssemblyInfo.cs
+C:\Users\dolakv.05\source\repos\09Metody\PoleUtil\obj\Debug\netstandard2.0\PoleUtil.csproj.CoreCompileInputs.cache

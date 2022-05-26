@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q9IeZUfzuCkDyn4EaC7d8De+5qONU+BsP9eHXwWVbzCc5WmsCs+oI0kvqbG3OOyUHz7+fd3E1DADpvEXhstO1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dolakv.05\\source\\repos\\09Metody\\RetezUtil\\RetezUtil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dolakv.05\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dolakv.05\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

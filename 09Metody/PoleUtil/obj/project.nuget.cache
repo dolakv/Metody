@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yoQo6MoXD/qyBfS13PFDmUYpOooZpsqz23vKiRh9Aq6rJJOgF/RO7d15c7H46ZRQuhJVUgFNa5CJSDJ5Oo8CVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dolakv.05\\source\\repos\\09Metody\\PoleUtil\\PoleUtil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dolakv.05\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dolakv.05\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

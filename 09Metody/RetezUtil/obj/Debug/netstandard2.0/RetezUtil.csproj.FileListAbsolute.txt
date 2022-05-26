@@ -1,0 +1,4 @@
+C:\Users\dolakv.05\source\repos\09Metody\RetezUtil\obj\Debug\netstandard2.0\RetezUtil.csprojAssemblyReference.cache
+C:\Users\dolakv.05\source\repos\09Metody\RetezUtil\obj\Debug\netstandard2.0\RetezUtil.AssemblyInfoInputs.cache
+C:\Users\dolakv.05\source\repos\09Metody\RetezUtil\obj\Debug\netstandard2.0\RetezUtil.AssemblyInfo.cs
+C:\Users\dolakv.05\source\repos\09Metody\RetezUtil\obj\Debug\netstandard2.0\RetezUtil.csproj.CoreCompileInputs.cache

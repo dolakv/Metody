@@ -1,0 +1,10 @@
+C:\Users\dolakv.05\source\repos\09Metody\P01\bin\Debug\P01.exe.config
+C:\Users\dolakv.05\source\repos\09Metody\P01\bin\Debug\P01.exe
+C:\Users\dolakv.05\source\repos\09Metody\P01\bin\Debug\P01.pdb
+C:\Users\dolakv.05\source\repos\09Metody\P01\obj\Debug\P01.csprojAssemblyReference.cache
+C:\Users\dolakv.05\source\repos\09Metody\P01\obj\Debug\P01.Form1.resources
+C:\Users\dolakv.05\source\repos\09Metody\P01\obj\Debug\P01.Properties.Resources.resources
+C:\Users\dolakv.05\source\repos\09Metody\P01\obj\Debug\P01.csproj.GenerateResource.cache
+C:\Users\dolakv.05\source\repos\09Metody\P01\obj\Debug\P01.csproj.CoreCompileInputs.cache
+C:\Users\dolakv.05\source\repos\09Metody\P01\obj\Debug\P01.exe
+C:\Users\dolakv.05\source\repos\09Metody\P01\obj\Debug\P01.pdb
